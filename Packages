@@ -1,5 +1,5 @@
 Package: my-printer
-Version: 2.42.0
+Version: 1.0.0
 Architecture: arm64
 Maintainer: Raymont Qin <raymontqin_rui@outlook.com>
 Installed-Size: 18760
