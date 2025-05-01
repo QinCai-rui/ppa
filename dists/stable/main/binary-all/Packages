@@ -1,0 +1,20 @@
+Package: rpi-web-shell
+Version: 1.2.2-1
+Architecture: all
+Maintainer: Raymont Qin <raymontqin_rui@outlook.com>
+Installed-Size: 95
+Depends: python3 (>= 3.7), python3-flask (>= 2.0.0), python3-flask-socketio, python3-engineio, python3-socketio, python3:any
+Filename: pool/main/r/rpi-web-shell/rpi-web-shell_1.2.2-1_all.deb
+Size: 17616
+MD5sum: 68d7c484c89b3004ee57d0ca100b505d
+SHA1: 09f6abe9f9a6896373602343603f12b2f92ee180
+SHA256: a5adb042851a4edc5db856c6e8b3789dd6b337bd9a32631d7396c71c14d5f221
+Section: utils
+Priority: optional
+Homepage: https://github.com/qincai-rui/rpi-web-shell
+Description: Web-based terminal interface for servers
+ A lightweight web-based terminal interface for servers that provides
+ secure shell access through your browser. It offers secure API key
+ authentication, real-time terminal updates with full-colour support,
+ and a responsive design that works on both desktop and mobile devices.
+
